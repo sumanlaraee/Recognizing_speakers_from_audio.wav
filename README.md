@@ -1,6 +1,15 @@
 # Recognizing_speakers_from_audio.wav
 Here i have audio file where there are 12 speakers and i have to recognize who is speaking 
 
+'''
+    to run script 
+    commands for cmd : 
+    set HF_TOKEN=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
+    echo %HF_TOKEN%
+    python diarize_audio.py input\audio1290408906.m4a
+
+
+'''
 OUTPUT:
 SPEAKER_10: 4208.52s – 4210.95s
   SPEAKER_10: 4212.15s – 4213.11s
